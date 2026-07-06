@@ -1,0 +1,23 @@
+{
+  "name": "ventas-main",
+  "version": "1.0.0",
+  "description": "SISTEMA de VENTAS e INVENTARIO en PHP y MySQL, MVC y BULMA (POS - FACTURACION)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emorenoz/Continental-Stanford.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emorenoz/Continental-Stanford/issues"
+  },
+  "homepage": "https://github.com/emorenoz/Continental-Stanford#readme",
+  "dependencies": {
+    "firebase": "^12.15.0"
+  }
+}
